@@ -1,0 +1,30 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "This project is to practice building a progressive web application",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalakisluke/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalakisluke/food-festival/issues"
+  },
+  "homepage": "https://github.com/michalakisluke/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.0"
+  }
+}
